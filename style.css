@@ -1,0 +1,49 @@
+#movie-head{
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+#movie-head i{
+    float: right;
+}
+#contact iframe{
+    width: 100%;
+}
+#contact-1 h3{
+    display: inline;
+}
+#group{
+    margin-top: 10px;
+    
+}
+#group h4{
+    padding: 8px;
+        
+}
+#group p{
+    margin-top: 10px;
+    
+}
+#books{
+cursor: pointer;
+}
+#books hr{
+margin-bottom: 10px;
+    
+}
+.modal-content{
+    margin-top: 100px;
+}
+.modal-body img{
+    display: inline-block;
+   
+}
+.modal-body{
+    text-align: center;
+}
+#e{
+width: 400px;
+    height: 600px;
+}
